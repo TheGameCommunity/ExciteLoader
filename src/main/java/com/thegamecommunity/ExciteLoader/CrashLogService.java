@@ -1,4 +1,4 @@
-package com.wildermods.wilderloader;
+package com.thegamecommunity.ExciteLoader;
 
 import java.util.ServiceLoader;
 
